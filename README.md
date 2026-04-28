@@ -2,6 +2,18 @@
 
 A simple yet robust REST API built with FastAPI that provides user authentication using JWT tokens. This project demonstrates best practices for user registration, login, password management, and protected routes using modern Python web development technologies.
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠 Tech Stack
+
+| Technology   | Role                         |
+| :----------- | :--------------------------- |
+| **FastAPI** | High-performance Framework   |
+| **SQLAlchemy**| Database ORM                 |
+| **Pydantic** | Data Validation              |
+| **Passlib** | Bcrypt Hashing               |
 ## Features
 
 - **User Registration** - Sign up with full name, email, and password
